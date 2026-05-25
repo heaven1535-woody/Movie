@@ -1,0 +1,25 @@
+{
+  "name": "PENSIEVE",
+  "short_name": "PENSIEVE",
+  "description": "기억의 영상 보관소 - 영화와 드라마 트래커",
+  "start_url": "./pensieve.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
